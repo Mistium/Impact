@@ -59,7 +59,7 @@ function encodeFileName(fileName) {
 async function fetchData(FileName) {
     try {
         const encodedFileName = encodeFileName(FileName);
-        const fileUrl = `${linkbody}${encodedFileName}`; // Ensure correct URL encoding
+        const fileUrl = `${linkbody}${encodedFileName}`;
         console.log("Fetching:", fileUrl);
 
         const response = await fetch(fileUrl);
@@ -90,9 +90,8 @@ async function Onclick(ExtName) {
 
 // Toggle button functionality when clicked
 Button.addEventListener("click", () => {
-    const currentToggle = getCookie("PreferCopy") || "false";
-    const newToggle = ToggleToString(currentToggle);
-    ToggleButton(newToggle, true);
+    let currentToggle = Button.dataset.toggle === "true" ? "false" : "true";
+    ToggleButton(currentToggle, true);
 });
 
 // Initialize button with saved preference
