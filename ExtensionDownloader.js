@@ -1,7 +1,7 @@
 const Button = document.querySelector(".ModeButton");
 
 // Updated base URL to use GitHub Pages instead of raw GitHub content
-const linkbody = "https://impact.warpcore.live/";
+const linkbody = "https://impact.warpcore.live";
 
 function downloadStringAsFile(content, fileName, contentType) {
     const blob = new Blob([content], { type: contentType });
