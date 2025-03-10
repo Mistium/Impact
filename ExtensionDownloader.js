@@ -1,11 +1,7 @@
 const Button = document.querySelector(".ModeButton");
 
-// Updated linkbody to use GitHub Pages instead of GitHub raw content
+// Updated base URL to use GitHub Pages instead of raw GitHub content
 const linkbody = "https://impact.warpcore.live/extensions";
-
-function encodeFileName(fileName) {
-    return fileName.replace(/ /g, "%20"); // Replace spaces with %20
-}
 
 function downloadStringAsFile(content, fileName, contentType) {
     const blob = new Blob([content], { type: contentType });
@@ -50,14 +46,20 @@ function setCookie(name, value) {
     document.cookie = name + "=" + value + ";" + expires + ";path=/";
 }
 
+// Ensure a default setting for the "PreferCopy" cookie
 if (getCookie("PreferCopy") === undefined) {
     setCookie("PreferCopy", "false");
 }
 
+// Encode filenames to handle spaces and special characters
+function encodeFileName(fileName) {
+    return encodeURIComponent(fileName); // Converts spaces to %20 and encodes special characters
+}
+
 async function fetchData(FileName) {
     try {
-        const encodedFileName = encodeFileName(FileName); // Encode spaces
-        const fileUrl = `${linkbody}/${encodedFileName}`; // Use GitHub Pages URL
+        const encodedFileName = encodeFileName(FileName);
+        const fileUrl = `${linkbody}/${encodedFileName}`; // Ensure correct URL encoding
         console.log("Fetching:", fileUrl);
 
         const response = await fetch(fileUrl);
@@ -86,4 +88,5 @@ async function Onclick(ExtName) {
     }
 }
 
+// Initialize button with saved preference
 ToggleButton(getCookie("PreferCopy"), true);
