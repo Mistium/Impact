@@ -1,0 +1,12 @@
+[
+  {
+    "name": "numutils.js",
+    "type": "file",
+    "path": "extensions/utilities-and-apis/mubilop/numutils.js"
+  },
+  {
+    "name": "penguinhook.js",
+    "type": "file",
+    "path": "extensions/utilities-and-apis/mubilop/penguinhook.js"
+  }
+]

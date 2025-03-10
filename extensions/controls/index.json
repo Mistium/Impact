@@ -30,9 +30,9 @@
     "path": "extensions/controls/veggiecan"
   },
   {
-    "name": "wawa cat",
+    "name": "wawa-cat",
     "type": "dir",
-    "path": "extensions/controls/wawa cat"
+    "path": "extensions/controls/wawa-cat"
   },
   {
     "name": "XmerOriginals",

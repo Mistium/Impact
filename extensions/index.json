@@ -5,9 +5,9 @@
     "path": "extensions/3d"
   },
   {
-    "name": "bluetooth and network",
+    "name": "bluetooth-and-network",
     "type": "dir",
-    "path": "extensions/bluetooth and network"
+    "path": "extensions/bluetooth-and-network"
   },
   {
     "name": "controls",
@@ -20,9 +20,9 @@
     "path": "extensions/conversion"
   },
   {
-    "name": "currency n economics",
+    "name": "currency-n-economics",
     "type": "dir",
-    "path": "extensions/currency n economics"
+    "path": "extensions/currency-n-economics"
   },
   {
     "name": "encryption",
@@ -40,9 +40,9 @@
     "path": "extensions/fun"
   },
   {
-    "name": "math and variables",
+    "name": "math-and-variables",
     "type": "dir",
-    "path": "extensions/math and variables"
+    "path": "extensions/math-and-variables"
   },
   {
     "name": "other",
@@ -50,9 +50,9 @@
     "path": "extensions/other"
   },
   {
-    "name": "rendering n looks",
+    "name": "rendering-n-looks",
     "type": "dir",
-    "path": "extensions/rendering n looks"
+    "path": "extensions/rendering-n-looks"
   },
   {
     "name": "sensing",
@@ -65,19 +65,19 @@
     "path": "extensions/sound"
   },
   {
-    "name": "strings n text",
+    "name": "strings-n-text",
     "type": "dir",
-    "path": "extensions/strings n text"
+    "path": "extensions/strings-n-text"
   },
   {
-    "name": "utilities and apis",
+    "name": "utilities-and-apis",
     "type": "dir",
-    "path": "extensions/utilities and apis"
+    "path": "extensions/utilities-and-apis"
   },
   {
-    "name": "weather.time n location",
+    "name": "weather.time-n-location",
     "type": "dir",
-    "path": "extensions/weather.time n location"
+    "path": "extensions/weather.time-n-location"
   },
   {
     "name": "[JSON]",

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "assets",
+    "type": "dir",
+    "path": "extensions/math-and-variables/SimonShiki/assets"
+  },
+  {
+    "name": "scopeVar.js",
+    "type": "file",
+    "path": "extensions/math-and-variables/SimonShiki/scopeVar.js"
+  }
+]

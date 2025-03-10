@@ -1,0 +1,22 @@
+[
+  {
+    "name": "AllMenus.js",
+    "type": "file",
+    "path": "extensions/rendering-n-looks/Lily/AllMenus.js"
+  },
+  {
+    "name": "Assets.js",
+    "type": "file",
+    "path": "extensions/rendering-n-looks/Lily/Assets.js"
+  },
+  {
+    "name": "LooksPlus.js",
+    "type": "file",
+    "path": "extensions/rendering-n-looks/Lily/LooksPlus.js"
+  },
+  {
+    "name": "Skins.js",
+    "type": "file",
+    "path": "extensions/rendering-n-looks/Lily/Skins.js"
+  }
+]
