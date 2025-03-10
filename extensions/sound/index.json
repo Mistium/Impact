@@ -1,0 +1,27 @@
+[
+  {
+    "name": "lily",
+    "type": "dir",
+    "path": "extensions/sound/lily"
+  },
+  {
+    "name": "pooid",
+    "type": "dir",
+    "path": "extensions/sound/pooid"
+  },
+  {
+    "name": "PuzzlingGGG",
+    "type": "dir",
+    "path": "extensions/sound/PuzzlingGGG"
+  },
+  {
+    "name": "turboloader",
+    "type": "dir",
+    "path": "extensions/sound/turboloader"
+  },
+  {
+    "name": "WP-Studio01",
+    "type": "dir",
+    "path": "extensions/sound/WP-Studio01"
+  }
+]

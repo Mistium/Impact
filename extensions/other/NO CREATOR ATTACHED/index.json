@@ -1,0 +1,47 @@
+[
+  {
+    "name": "example",
+    "type": "dir",
+    "path": "extensions/other/NO CREATOR ATTACHED/example"
+  },
+  {
+    "name": "BSE_v1_6.js",
+    "type": "file",
+    "path": "extensions/other/NO CREATOR ATTACHED/BSE_v1_6.js"
+  },
+  {
+    "name": "Cloud_Position.js",
+    "type": "file",
+    "path": "extensions/other/NO CREATOR ATTACHED/Cloud_Position.js"
+  },
+  {
+    "name": "CockatielLocation.js",
+    "type": "file",
+    "path": "extensions/other/NO CREATOR ATTACHED/CockatielLocation.js"
+  },
+  {
+    "name": "Favicon_utils.js",
+    "type": "file",
+    "path": "extensions/other/NO CREATOR ATTACHED/Favicon_utils.js"
+  },
+  {
+    "name": "Geometry_Dash_Tools.js",
+    "type": "file",
+    "path": "extensions/other/NO CREATOR ATTACHED/Geometry_Dash_Tools.js"
+  },
+  {
+    "name": "Just_fields.js",
+    "type": "file",
+    "path": "extensions/other/NO CREATOR ATTACHED/Just_fields.js"
+  },
+  {
+    "name": "Moron_Utils.js",
+    "type": "file",
+    "path": "extensions/other/NO CREATOR ATTACHED/Moron_Utils.js"
+  },
+  {
+    "name": "TobsterUTILS.js",
+    "type": "file",
+    "path": "extensions/other/NO CREATOR ATTACHED/TobsterUTILS.js"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "name": "3d",
+    "type": "dir",
+    "path": "extensions/3d"
+  },
+  {
+    "name": "bluetooth and network",
+    "type": "dir",
+    "path": "extensions/bluetooth and network"
+  },
+  {
+    "name": "controls",
+    "type": "dir",
+    "path": "extensions/controls"
+  },
+  {
+    "name": "conversion",
+    "type": "dir",
+    "path": "extensions/conversion"
+  },
+  {
+    "name": "currency n economics",
+    "type": "dir",
+    "path": "extensions/currency n economics"
+  },
+  {
+    "name": "encryption",
+    "type": "dir",
+    "path": "extensions/encryption"
+  },
+  {
+    "name": "files and data",
+    "type": "dir",
+    "path": "extensions/files and data"
+  },
+  {
+    "name": "fun",
+    "type": "dir",
+    "path": "extensions/fun"
+  },
+  {
+    "name": "math and variables",
+    "type": "dir",
+    "path": "extensions/math and variables"
+  },
+  {
+    "name": "other",
+    "type": "dir",
+    "path": "extensions/other"
+  },
+  {
+    "name": "rendering n looks",
+    "type": "dir",
+    "path": "extensions/rendering n looks"
+  },
+  {
+    "name": "sensing",
+    "type": "dir",
+    "path": "extensions/sensing"
+  },
+  {
+    "name": "sound",
+    "type": "dir",
+    "path": "extensions/sound"
+  },
+  {
+    "name": "strings n text",
+    "type": "dir",
+    "path": "extensions/strings n text"
+  },
+  {
+    "name": "utilities and apis",
+    "type": "dir",
+    "path": "extensions/utilities and apis"
+  },
+  {
+    "name": "weather.time n location",
+    "type": "dir",
+    "path": "extensions/weather.time n location"
+  },
+  {
+    "name": "[JSON]",
+    "type": "dir",
+    "path": "extensions/[JSON]"
+  }
+]

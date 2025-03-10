@@ -1,0 +1,37 @@
+[
+  {
+    "name": "0832",
+    "type": "dir",
+    "path": "extensions/files and data/0832"
+  },
+  {
+    "name": "Anonymous_cat1",
+    "type": "dir",
+    "path": "extensions/files and data/Anonymous_cat1"
+  },
+  {
+    "name": "artem_p4",
+    "type": "dir",
+    "path": "extensions/files and data/artem_p4"
+  },
+  {
+    "name": "Codefoxy",
+    "type": "dir",
+    "path": "extensions/files and data/Codefoxy"
+  },
+  {
+    "name": "CST1229",
+    "type": "dir",
+    "path": "extensions/files and data/CST1229"
+  },
+  {
+    "name": "Gen1x",
+    "type": "dir",
+    "path": "extensions/files and data/Gen1x"
+  },
+  {
+    "name": "ProcyBit",
+    "type": "dir",
+    "path": "extensions/files and data/ProcyBit"
+  }
+]

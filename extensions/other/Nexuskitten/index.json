@@ -1,0 +1,12 @@
+[
+  {
+    "name": "moremotion.js",
+    "type": "file",
+    "path": "extensions/other/Nexuskitten/moremotion.js"
+  },
+  {
+    "name": "sgrab.js",
+    "type": "file",
+    "path": "extensions/other/Nexuskitten/sgrab.js"
+  }
+]

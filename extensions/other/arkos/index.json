@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Archivecode.js",
+    "type": "file",
+    "path": "extensions/other/arkos/Archivecode.js"
+  },
+  {
+    "name": "Archivecode\u65b0\u7248.js",
+    "type": "file",
+    "path": "extensions/other/arkos/Archivecode\u65b0\u7248.js"
+  },
+  {
+    "name": "Archivecode\u65e7\u7248.js",
+    "type": "file",
+    "path": "extensions/other/arkos/Archivecode\u65e7\u7248.js"
+  },
+  {
+    "name": "project.js",
+    "type": "file",
+    "path": "extensions/other/arkos/project.js"
+  },
+  {
+    "name": "projectWith30.js",
+    "type": "file",
+    "path": "extensions/other/arkos/projectWith30.js"
+  },
+  {
+    "name": "test.js",
+    "type": "file",
+    "path": "extensions/other/arkos/test.js"
+  }
+]

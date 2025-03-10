@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Gen1x",
+    "type": "dir",
+    "path": "extensions/fun/Gen1x"
+  },
+  {
+    "name": "Theshovel",
+    "type": "dir",
+    "path": "extensions/fun/Theshovel"
+  }
+]

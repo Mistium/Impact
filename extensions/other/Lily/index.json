@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Cast.js",
+    "type": "file",
+    "path": "extensions/other/Lily/Cast.js"
+  },
+  {
+    "name": "ClonesPlus.js",
+    "type": "file",
+    "path": "extensions/other/Lily/ClonesPlus.js"
+  },
+  {
+    "name": "HackedBlocks.js",
+    "type": "file",
+    "path": "extensions/other/Lily/HackedBlocks.js"
+  },
+  {
+    "name": "MoreEvents.js",
+    "type": "file",
+    "path": "extensions/other/Lily/MoreEvents.js"
+  },
+  {
+    "name": "MoreTimers.js",
+    "type": "file",
+    "path": "extensions/other/Lily/MoreTimers.js"
+  }
+]

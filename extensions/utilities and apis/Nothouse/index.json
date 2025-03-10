@@ -1,0 +1,12 @@
+[
+  {
+    "name": "DiscordAuth.js",
+    "type": "file",
+    "path": "extensions/utilities and apis/Nothouse/DiscordAuth.js"
+  },
+  {
+    "name": "OnlineCaptcha.js",
+    "type": "file",
+    "path": "extensions/utilities and apis/Nothouse/OnlineCaptcha.js"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "arkos",
+    "type": "dir",
+    "path": "extensions/controls/arkos"
+  },
+  {
+    "name": "assets",
+    "type": "dir",
+    "path": "extensions/controls/assets"
+  },
+  {
+    "name": "cubester_YT",
+    "type": "dir",
+    "path": "extensions/controls/cubester_YT"
+  },
+  {
+    "name": "DT",
+    "type": "dir",
+    "path": "extensions/controls/DT"
+  },
+  {
+    "name": "NexusKitten",
+    "type": "dir",
+    "path": "extensions/controls/NexusKitten"
+  },
+  {
+    "name": "veggiecan",
+    "type": "dir",
+    "path": "extensions/controls/veggiecan"
+  },
+  {
+    "name": "wawa cat",
+    "type": "dir",
+    "path": "extensions/controls/wawa cat"
+  },
+  {
+    "name": "XmerOriginals",
+    "type": "dir",
+    "path": "extensions/controls/XmerOriginals"
+  }
+]

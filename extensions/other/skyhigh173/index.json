@@ -1,0 +1,12 @@
+[
+  {
+    "name": "bigint.js",
+    "type": "file",
+    "path": "extensions/other/skyhigh173/bigint.js"
+  },
+  {
+    "name": "object.js",
+    "type": "file",
+    "path": "extensions/other/skyhigh173/object.js"
+  }
+]
