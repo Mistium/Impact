@@ -3,6 +3,10 @@ const Button = document.querySelector(".ModeButton");
 // Updated linkbody to use GitHub Pages instead of GitHub raw content
 const linkbody = "https://impact.warpcore.live/extensions";
 
+function encodeFileName(fileName) {
+    return fileName.replace(/ /g, "%20"); // Replace spaces with %20
+}
+
 function downloadStringAsFile(content, fileName, contentType) {
     const blob = new Blob([content], { type: contentType });
     const a = document.createElement("a");
@@ -52,7 +56,8 @@ if (getCookie("PreferCopy") === undefined) {
 
 async function fetchData(FileName) {
     try {
-        const fileUrl = linkbody + FileName; // Use GitHub Pages URL
+        const encodedFileName = encodeFileName(FileName); // Encode spaces
+        const fileUrl = `${linkbody}/${encodedFileName}`; // Use GitHub Pages URL
         console.log("Fetching:", fileUrl);
 
         const response = await fetch(fileUrl);
