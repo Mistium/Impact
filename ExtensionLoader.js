@@ -1,4 +1,4 @@
-const basePath = "extensions"; // Change this to the actual path where extensions are stored
+const basePath = "extensions"; // Base path where extensions are stored
 
 const SearchField = document.querySelector(".SearchField");
 
@@ -10,12 +10,11 @@ function ReportErrorOnPage() {
   document.body.insertBefore(ErrorMessage, document.querySelector(".Footer"));
 }
 
-async function fetchLocalContents(url) {
+async function fetchLocalContents(path) {
   try {
-    const response = await fetch(url);
+    const response = await fetch(`${path}/index.json`); // Expecting an index.json listing directory contents
     if (response.ok) {
-      const data = await response.json();
-      return data;
+      return await response.json();
     } else {
       ReportErrorOnPage();
     }
@@ -39,14 +38,14 @@ function AddListItem(item, fileTree) {
     listItem.appendChild(subfolder);
   } else {
     listItem.addEventListener("click", () => Onclick(listItem.id));
-    
+
     // Create and append the copy link button
     const copyButton = document.createElement("button");
     copyButton.textContent = "Copy Link";
     copyButton.style.marginLeft = "10px";
     copyButton.addEventListener("click", (event) => {
       event.stopPropagation(); // Prevent triggering file click
-      const fileUrl = `${basePath}/${item.path}`;
+      const fileUrl = `${window.location.origin}/${item.path}`; // Ensure correct local file URL
       navigator.clipboard.writeText(fileUrl).then(() => {
         alert("Link copied to clipboard");
       });
@@ -59,7 +58,7 @@ function AddListItem(item, fileTree) {
 
 // Fetch and display the directory structure
 async function displayLocalContents(path = basePath) {
-  const data = await fetchLocalContents(`${path}/index.json`); // Expecting a JSON file that lists contents
+  const data = await fetchLocalContents(path);
   if (data === null) return;
 
   const fileTree = document.getElementById("file-tree");
