@@ -15,11 +15,6 @@
     "path": "extensions/0832"
   },
   {
-    "name": "0znzw",
-    "type": "dir",
-    "path": "extensions/0znzw"
-  },
-  {
     "name": "4ndy64",
     "type": "dir",
     "path": "extensions/4ndy64"
@@ -218,6 +213,11 @@
     "name": "Mio",
     "type": "dir",
     "path": "extensions/Mio"
+  },
+  {
+    "name": "Mistium",
+    "type": "dir",
+    "path": "extensions/Mistium"
   },
   {
     "name": "Monochromasity",
