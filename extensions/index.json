@@ -1,87 +1,427 @@
 [
   {
-    "name": "3d",
+    "name": "NoCreatorAttached",
     "type": "dir",
-    "path": "extensions/3d"
+    "path": "extensions/NoCreatorAttached"
   },
   {
-    "name": "bluetooth-and-network",
+    "name": "-SIPC-",
     "type": "dir",
-    "path": "extensions/bluetooth-and-network"
+    "path": "extensions/-SIPC-"
   },
   {
-    "name": "controls",
+    "name": "0832",
     "type": "dir",
-    "path": "extensions/controls"
+    "path": "extensions/0832"
   },
   {
-    "name": "conversion",
+    "name": "0znzw",
     "type": "dir",
-    "path": "extensions/conversion"
+    "path": "extensions/0znzw"
   },
   {
-    "name": "currency-n-economics",
+    "name": "4ndy64",
     "type": "dir",
-    "path": "extensions/currency-n-economics"
+    "path": "extensions/4ndy64"
   },
   {
-    "name": "encryption",
+    "name": "adacraft",
     "type": "dir",
-    "path": "extensions/encryption"
+    "path": "extensions/adacraft"
   },
   {
-    "name": "files and data",
+    "name": "Alestore",
     "type": "dir",
-    "path": "extensions/files and data"
+    "path": "extensions/Alestore"
   },
   {
-    "name": "fun",
+    "name": "Anonymous_cat1",
     "type": "dir",
-    "path": "extensions/fun"
+    "path": "extensions/Anonymous_cat1"
   },
   {
-    "name": "math-and-variables",
+    "name": "Arkos",
     "type": "dir",
-    "path": "extensions/math-and-variables"
+    "path": "extensions/Arkos"
   },
   {
-    "name": "other",
+    "name": "artem_p4",
     "type": "dir",
-    "path": "extensions/other"
+    "path": "extensions/artem_p4"
   },
   {
-    "name": "rendering-n-looks",
+    "name": "bop_tw",
     "type": "dir",
-    "path": "extensions/rendering-n-looks"
+    "path": "extensions/bop_tw"
   },
   {
-    "name": "sensing",
+    "name": "bruhbeast-pixel",
     "type": "dir",
-    "path": "extensions/sensing"
+    "path": "extensions/bruhbeast-pixel"
   },
   {
-    "name": "sound",
+    "name": "Clay",
     "type": "dir",
-    "path": "extensions/sound"
+    "path": "extensions/Clay"
   },
   {
-    "name": "strings-n-text",
+    "name": "Codefoxy",
     "type": "dir",
-    "path": "extensions/strings-n-text"
+    "path": "extensions/Codefoxy"
   },
   {
-    "name": "utilities-and-apis",
+    "name": "codeGIO",
     "type": "dir",
-    "path": "extensions/utilities-and-apis"
+    "path": "extensions/codeGIO"
   },
   {
-    "name": "weather.time-n-location",
+    "name": "cs2627883",
     "type": "dir",
-    "path": "extensions/weather.time-n-location"
+    "path": "extensions/cs2627883"
   },
   {
-    "name": "[JSON]",
+    "name": "CST1229",
     "type": "dir",
-    "path": "extensions/[JSON]"
+    "path": "extensions/CST1229"
+  },
+  {
+    "name": "CubesterYT",
+    "type": "dir",
+    "path": "extensions/CubesterYT"
+  },
+  {
+    "name": "dannydev",
+    "type": "dir",
+    "path": "extensions/dannydev"
+  },
+  {
+    "name": "derpygamer2142",
+    "type": "dir",
+    "path": "extensions/derpygamer2142"
+  },
+  {
+    "name": "DilemmaGX",
+    "type": "dir",
+    "path": "extensions/DilemmaGX"
+  },
+  {
+    "name": "DNin",
+    "type": "dir",
+    "path": "extensions/DNin"
+  },
+  {
+    "name": "DogeisCut",
+    "type": "dir",
+    "path": "extensions/DogeisCut"
+  },
+  {
+    "name": "DollyPro",
+    "type": "dir",
+    "path": "extensions/DollyPro"
+  },
+  {
+    "name": "DT",
+    "type": "dir",
+    "path": "extensions/DT"
+  },
+  {
+    "name": "dumzdev",
+    "type": "dir",
+    "path": "extensions/dumzdev"
+  },
+  {
+    "name": "example",
+    "type": "dir",
+    "path": "extensions/example"
+  },
+  {
+    "name": "Fath",
+    "type": "dir",
+    "path": "extensions/Fath"
+  },
+  {
+    "name": "FurryR",
+    "type": "dir",
+    "path": "extensions/FurryR"
+  },
+  {
+    "name": "Gen1x",
+    "type": "dir",
+    "path": "extensions/Gen1x"
+  },
+  {
+    "name": "godslayerakp",
+    "type": "dir",
+    "path": "extensions/godslayerakp"
+  },
+  {
+    "name": "JeremyGamer13",
+    "type": "dir",
+    "path": "extensions/JeremyGamer13"
+  },
+  {
+    "name": "justablock",
+    "type": "dir",
+    "path": "extensions/justablock"
+  },
+  {
+    "name": "jwklong",
+    "type": "dir",
+    "path": "extensions/jwklong"
+  },
+  {
+    "name": "kukemc",
+    "type": "dir",
+    "path": "extensions/kukemc"
+  },
+  {
+    "name": "lab",
+    "type": "dir",
+    "path": "extensions/lab"
+  },
+  {
+    "name": "Lily",
+    "type": "dir",
+    "path": "extensions/Lily"
+  },
+  {
+    "name": "Longboost",
+    "type": "dir",
+    "path": "extensions/Longboost"
+  },
+  {
+    "name": "mariocraft987",
+    "type": "dir",
+    "path": "extensions/mariocraft987"
+  },
+  {
+    "name": "mbw",
+    "type": "dir",
+    "path": "extensions/mbw"
+  },
+  {
+    "name": "mdwalters",
+    "type": "dir",
+    "path": "extensions/mdwalters"
+  },
+  {
+    "name": "Medericoder",
+    "type": "dir",
+    "path": "extensions/Medericoder"
+  },
+  {
+    "name": "MikeDev101",
+    "type": "dir",
+    "path": "extensions/MikeDev101"
+  },
+  {
+    "name": "Mio",
+    "type": "dir",
+    "path": "extensions/Mio"
+  },
+  {
+    "name": "Monochromasity",
+    "type": "dir",
+    "path": "extensions/Monochromasity"
+  },
+  {
+    "name": "MrRedstonia",
+    "type": "dir",
+    "path": "extensions/MrRedstonia"
+  },
+  {
+    "name": "MubiLop",
+    "type": "dir",
+    "path": "extensions/MubiLop"
+  },
+  {
+    "name": "NamelessCat",
+    "type": "dir",
+    "path": "extensions/NamelessCat"
+  },
+  {
+    "name": "NexusKitten",
+    "type": "dir",
+    "path": "extensions/NexusKitten"
+  },
+  {
+    "name": "Nights",
+    "type": "dir",
+    "path": "extensions/Nights"
+  },
+  {
+    "name": "NOname-awa",
+    "type": "dir",
+    "path": "extensions/NOname-awa"
+  },
+  {
+    "name": "NotHouse",
+    "type": "dir",
+    "path": "extensions/NotHouse"
+  },
+  {
+    "name": "ObviousAlexC",
+    "type": "dir",
+    "path": "extensions/ObviousAlexC"
+  },
+  {
+    "name": "pooiod",
+    "type": "dir",
+    "path": "extensions/pooiod"
+  },
+  {
+    "name": "Project",
+    "type": "dir",
+    "path": "extensions/Project"
+  },
+  {
+    "name": "PuzzlingGGG",
+    "type": "dir",
+    "path": "extensions/PuzzlingGGG"
+  },
+  {
+    "name": "PwLDev",
+    "type": "dir",
+    "path": "extensions/PwLDev"
+  },
+  {
+    "name": "QuakeStudio",
+    "type": "dir",
+    "path": "extensions/QuakeStudio"
+  },
+  {
+    "name": "qxsck",
+    "type": "dir",
+    "path": "extensions/qxsck"
+  },
+  {
+    "name": "RubyDevs",
+    "type": "dir",
+    "path": "extensions/RubyDevs"
+  },
+  {
+    "name": "SammerLOL",
+    "type": "dir",
+    "path": "extensions/SammerLOL"
+  },
+  {
+    "name": "Scratch",
+    "type": "dir",
+    "path": "extensions/Scratch"
+  },
+  {
+    "name": "SharkPool",
+    "type": "dir",
+    "path": "extensions/SharkPool"
+  },
+  {
+    "name": "shreder95ua",
+    "type": "dir",
+    "path": "extensions/shreder95ua"
+  },
+  {
+    "name": "SimonShiki",
+    "type": "dir",
+    "path": "extensions/SimonShiki"
+  },
+  {
+    "name": "sipc.ink",
+    "type": "dir",
+    "path": "extensions/sipc.ink"
+  },
+  {
+    "name": "six-6",
+    "type": "dir",
+    "path": "extensions/six-6"
+  },
+  {
+    "name": "skyhigh173",
+    "type": "dir",
+    "path": "extensions/skyhigh173"
+  },
+  {
+    "name": "TheShovel",
+    "type": "dir",
+    "path": "extensions/TheShovel"
+  },
+  {
+    "name": "true-fantom",
+    "type": "dir",
+    "path": "extensions/true-fantom"
+  },
+  {
+    "name": "turboloader",
+    "type": "dir",
+    "path": "extensions/turboloader"
+  },
+  {
+    "name": "TurbowarpGarbomuffin",
+    "type": "dir",
+    "path": "extensions/TurbowarpGarbomuffin"
+  },
+  {
+    "name": "veggiecan",
+    "type": "dir",
+    "path": "extensions/veggiecan"
+  },
+  {
+    "name": "vercte",
+    "type": "dir",
+    "path": "extensions/vercte"
+  },
+  {
+    "name": "VeryGoodScratcher42",
+    "type": "dir",
+    "path": "extensions/VeryGoodScratcher42"
+  },
+  {
+    "name": "WAYLIVES",
+    "type": "dir",
+    "path": "extensions/WAYLIVES"
+  },
+  {
+    "name": "wit_cat",
+    "type": "dir",
+    "path": "extensions/wit_cat"
+  },
+  {
+    "name": "WP-Studio01",
+    "type": "dir",
+    "path": "extensions/WP-Studio01"
+  },
+  {
+    "name": "wtkzq",
+    "type": "dir",
+    "path": "extensions/wtkzq"
+  },
+  {
+    "name": "x10clkz",
+    "type": "dir",
+    "path": "extensions/x10clkz"
+  },
+  {
+    "name": "Xeltalliv",
+    "type": "dir",
+    "path": "extensions/Xeltalliv"
+  },
+  {
+    "name": "XeroName",
+    "type": "dir",
+    "path": "extensions/XeroName"
+  },
+  {
+    "name": "XmerOriginals",
+    "type": "dir",
+    "path": "extensions/XmerOriginals"
+  },
+  {
+    "name": "YUEN",
+    "type": "dir",
+    "path": "extensions/YUEN"
+  },
+  {
+    "name": "ZXMushroom63",
+    "type": "dir",
+    "path": "extensions/ZXMushroom63"
   }
 ]
