@@ -2,35 +2,31 @@ import os
 import json
 
 def generate_index_json(directory):
-    """Recursively creates index.json files for each directory in the given path."""
+    """ Recursively creates index.json files for each directory inside `extensions`. """
     for root, dirs, files in os.walk(directory):
         index_data = []
 
         # Add directories
         for dir_name in dirs:
-            index_data.append({
-                "name": dir_name,
-                "type": "dir",
-                "path": os.path.join(root, dir_name).replace("\\", "/")  # Normalize for web usage
-            })
+            index_data.append({"name": dir_name, "type": "dir", "path": os.path.join(root, dir_name).replace("\\", "/")})
 
-        # Add files
+        # Add files (excluding index.json itself)
         for file_name in files:
             if file_name == "index.json":
-                continue  # Skip index.json files to prevent overwriting issues
+                continue
+            index_data.append({"name": file_name, "type": "file", "path": os.path.join(root, file_name).replace("\\", "/")})
 
-            index_data.append({
-                "name": file_name,
-                "type": "file",
-                "path": os.path.join(root, file_name).replace("\\", "/")  # Normalize for web usage
-            })
-
-        # Write index.json in the current directory
+        # Save index.json in the current directory
         index_file_path = os.path.join(root, "index.json")
-        with open(index_file_path, "w", encoding="utf-8") as f:
-            json.dump(index_data, f, indent=2)
+        with open(index_file_path, "w", encoding="utf-8") as json_file:
+            json.dump(index_data, json_file, indent=2)
 
-        print(f"Generated: {index_file_path}")
+        print(f"Generated {index_file_path}")
 
-# Run the script on the 'extensions' directory
-generate_index_json("extensions")
+if __name__ == "__main__":
+    extensions_dir = "extensions"  # Change this if your folder has a different name
+    if os.path.exists(extensions_dir):
+        generate_index_json(extensions_dir)
+        print("All index.json files generated successfully.")
+    else:
+        print(f"Directory '{extensions_dir}' not found!")
