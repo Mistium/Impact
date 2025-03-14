@@ -10,9 +10,9 @@
     "path": "extensions/Nights/stats.js/src"
   },
   {
-    "name": "package.json",
+    "name": "vite.config.js",
     "type": "file",
-    "path": "extensions/Nights/stats.js/package.json"
+    "path": "extensions/Nights/stats.js/vite.config.js"
   },
   {
     "name": "README.md",
@@ -20,8 +20,8 @@
     "path": "extensions/Nights/stats.js/README.md"
   },
   {
-    "name": "vite.config.js",
+    "name": "package.json",
     "type": "file",
-    "path": "extensions/Nights/stats.js/vite.config.js"
+    "path": "extensions/Nights/stats.js/package.json"
   }
 ]

@@ -5,14 +5,14 @@
     "path": "extensions/kukemc/WebHook/assets"
   },
   {
-    "name": "extension.js",
-    "type": "file",
-    "path": "extensions/kukemc/WebHook/extension.js"
-  },
-  {
     "name": "index.js",
     "type": "file",
     "path": "extensions/kukemc/WebHook/index.js"
+  },
+  {
+    "name": "webpack.config.js",
+    "type": "file",
+    "path": "extensions/kukemc/WebHook/webpack.config.js"
   },
   {
     "name": "package-lock.json",
@@ -25,8 +25,8 @@
     "path": "extensions/kukemc/WebHook/package.json"
   },
   {
-    "name": "webpack.config.js",
+    "name": "extension.js",
     "type": "file",
-    "path": "extensions/kukemc/WebHook/webpack.config.js"
+    "path": "extensions/kukemc/WebHook/extension.js"
   }
 ]

@@ -14,7 +14,11 @@ def generate_index_json(directory):
         for file_name in files:
             if file_name == "index.json":
                 continue
-            index_data.append({"name": file_name, "type": "file", "path": os.path.join(root, file_name).replace("\\", "/")})
+            if file_name == "FOR-REDIRECT.txt":
+                url = open(os.path.join(root, file_name), "r").read().strip()
+                index_data.append({"name": f"Check out their gallery! ({url})", "type": "link", "path": url})
+            else:
+                index_data.append({"name": file_name, "type": "file", "path": os.path.join(root, file_name).replace("\\", "/")})
 
         # Save index.json in the current directory
         index_file_path = os.path.join(root, "index.json")

@@ -5,13 +5,13 @@
     "path": "extensions/NoCreatorAttached/DeclinedPRS/PR_1354/extensions%2FArkos%2FmoreDataTypes.js"
   },
   {
-    "name": "images%2FArkos%2FmoreDataTypes.svg",
-    "type": "file",
-    "path": "extensions/NoCreatorAttached/DeclinedPRS/PR_1354/images%2FArkos%2FmoreDataTypes.svg"
-  },
-  {
     "name": "samples%2FAdvanced%20Data%20Structure.sb3",
     "type": "file",
     "path": "extensions/NoCreatorAttached/DeclinedPRS/PR_1354/samples%2FAdvanced%20Data%20Structure.sb3"
+  },
+  {
+    "name": "images%2FArkos%2FmoreDataTypes.svg",
+    "type": "file",
+    "path": "extensions/NoCreatorAttached/DeclinedPRS/PR_1354/images%2FArkos%2FmoreDataTypes.svg"
   }
 ]

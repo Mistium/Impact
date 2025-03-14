@@ -1,8 +1,8 @@
 [
   {
-    "name": "cover.png",
+    "name": "icon.png",
     "type": "file",
-    "path": "extensions/Nights/tilemap/cover.png"
+    "path": "extensions/Nights/tilemap/icon.png"
   },
   {
     "name": "demo.sb3",
@@ -10,14 +10,9 @@
     "path": "extensions/Nights/tilemap/demo.sb3"
   },
   {
-    "name": "icon.png",
+    "name": "tilemap.js",
     "type": "file",
-    "path": "extensions/Nights/tilemap/icon.png"
-  },
-  {
-    "name": "info.json",
-    "type": "file",
-    "path": "extensions/Nights/tilemap/info.json"
+    "path": "extensions/Nights/tilemap/tilemap.js"
   },
   {
     "name": "README.md",
@@ -25,8 +20,13 @@
     "path": "extensions/Nights/tilemap/README.md"
   },
   {
-    "name": "tilemap.js",
+    "name": "cover.png",
     "type": "file",
-    "path": "extensions/Nights/tilemap/tilemap.js"
+    "path": "extensions/Nights/tilemap/cover.png"
+  },
+  {
+    "name": "info.json",
+    "type": "file",
+    "path": "extensions/Nights/tilemap/info.json"
   }
 ]

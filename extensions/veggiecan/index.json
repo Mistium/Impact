@@ -1,8 +1,8 @@
 [
   {
-    "name": "browserfullscreen.js",
+    "name": "mobilekeyboard.js",
     "type": "file",
-    "path": "extensions/veggiecan/browserfullscreen.js"
+    "path": "extensions/veggiecan/mobilekeyboard.js"
   },
   {
     "name": "LongmanDictionary.js",
@@ -10,8 +10,8 @@
     "path": "extensions/veggiecan/LongmanDictionary.js"
   },
   {
-    "name": "mobilekeyboard.js",
+    "name": "browserfullscreen.js",
     "type": "file",
-    "path": "extensions/veggiecan/mobilekeyboard.js"
+    "path": "extensions/veggiecan/browserfullscreen.js"
   }
 ]

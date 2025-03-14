@@ -1,7 +1,7 @@
 [
   {
-    "name": "FOR-REDIRECT",
-    "type": "file",
-    "path": "extensions/Mio/FOR-REDIRECT"
+    "name": "Check out their gallery! (https://gallery.miyo.lol)",
+    "type": "link",
+    "path": "https://gallery.miyo.lol"
   }
 ]

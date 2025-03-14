@@ -1,13 +1,13 @@
 [
   {
-    "name": "extensions%2Fclipboard.js",
-    "type": "file",
-    "path": "extensions/NoCreatorAttached/DeclinedPRS/PR_669/extensions%2Fclipboard.js"
-  },
-  {
     "name": "extensions%2FLily%2FData.js",
     "type": "file",
     "path": "extensions/NoCreatorAttached/DeclinedPRS/PR_669/extensions%2FLily%2FData.js"
+  },
+  {
+    "name": "extensions%2Fclipboard.js",
+    "type": "file",
+    "path": "extensions/NoCreatorAttached/DeclinedPRS/PR_669/extensions%2Fclipboard.js"
   },
   {
     "name": "extensions%2FNexusKitten%2Fbrowserutils.js",

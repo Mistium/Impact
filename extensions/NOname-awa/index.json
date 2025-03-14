@@ -1,23 +1,8 @@
 [
   {
-    "name": "cn-number.js",
-    "type": "file",
-    "path": "extensions/NOname-awa/cn-number.js"
-  },
-  {
-    "name": "global-coordinate.js",
-    "type": "file",
-    "path": "extensions/NOname-awa/global-coordinate.js"
-  },
-  {
     "name": "graphics2d.js",
     "type": "file",
     "path": "extensions/NOname-awa/graphics2d.js"
-  },
-  {
-    "name": "math-and-string.js",
-    "type": "file",
-    "path": "extensions/NOname-awa/math-and-string.js"
   },
   {
     "name": "more-comparisons.js",
@@ -25,13 +10,28 @@
     "path": "extensions/NOname-awa/more-comparisons.js"
   },
   {
-    "name": "regular-expression.js",
+    "name": "global-coordinate.js",
     "type": "file",
-    "path": "extensions/NOname-awa/regular-expression.js"
+    "path": "extensions/NOname-awa/global-coordinate.js"
   },
   {
     "name": "sort-unique-words.js",
     "type": "file",
     "path": "extensions/NOname-awa/sort-unique-words.js"
+  },
+  {
+    "name": "cn-number.js",
+    "type": "file",
+    "path": "extensions/NOname-awa/cn-number.js"
+  },
+  {
+    "name": "math-and-string.js",
+    "type": "file",
+    "path": "extensions/NOname-awa/math-and-string.js"
+  },
+  {
+    "name": "regular-expression.js",
+    "type": "file",
+    "path": "extensions/NOname-awa/regular-expression.js"
   }
 ]

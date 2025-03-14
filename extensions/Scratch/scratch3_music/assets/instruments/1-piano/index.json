@@ -1,5 +1,20 @@
 [
   {
+    "name": "96.mp3",
+    "type": "file",
+    "path": "extensions/Scratch/scratch3_music/assets/instruments/1-piano/96.mp3"
+  },
+  {
+    "name": "84.mp3",
+    "type": "file",
+    "path": "extensions/Scratch/scratch3_music/assets/instruments/1-piano/84.mp3"
+  },
+  {
+    "name": "36.mp3",
+    "type": "file",
+    "path": "extensions/Scratch/scratch3_music/assets/instruments/1-piano/36.mp3"
+  },
+  {
     "name": "108.mp3",
     "type": "file",
     "path": "extensions/Scratch/scratch3_music/assets/instruments/1-piano/108.mp3"
@@ -8,11 +23,6 @@
     "name": "24.mp3",
     "type": "file",
     "path": "extensions/Scratch/scratch3_music/assets/instruments/1-piano/24.mp3"
-  },
-  {
-    "name": "36.mp3",
-    "type": "file",
-    "path": "extensions/Scratch/scratch3_music/assets/instruments/1-piano/36.mp3"
   },
   {
     "name": "48.mp3",
@@ -28,15 +38,5 @@
     "name": "72.mp3",
     "type": "file",
     "path": "extensions/Scratch/scratch3_music/assets/instruments/1-piano/72.mp3"
-  },
-  {
-    "name": "84.mp3",
-    "type": "file",
-    "path": "extensions/Scratch/scratch3_music/assets/instruments/1-piano/84.mp3"
-  },
-  {
-    "name": "96.mp3",
-    "type": "file",
-    "path": "extensions/Scratch/scratch3_music/assets/instruments/1-piano/96.mp3"
   }
 ]

@@ -1,10 +1,5 @@
 [
   {
-    "name": "debug.js",
-    "type": "file",
-    "path": "extensions/Scratch/scratch3_video_sensing/debug.js"
-  },
-  {
     "name": "index.js",
     "type": "file",
     "path": "extensions/Scratch/scratch3_video_sensing/index.js"
@@ -23,5 +18,10 @@
     "name": "view.js",
     "type": "file",
     "path": "extensions/Scratch/scratch3_video_sensing/view.js"
+  },
+  {
+    "name": "debug.js",
+    "type": "file",
+    "path": "extensions/Scratch/scratch3_video_sensing/debug.js"
   }
 ]

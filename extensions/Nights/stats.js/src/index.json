@@ -1,10 +1,5 @@
 [
   {
-    "name": "block-info.js",
-    "type": "file",
-    "path": "extensions/Nights/stats.js/src/block-info.js"
-  },
-  {
     "name": "lang.js",
     "type": "file",
     "path": "extensions/Nights/stats.js/src/lang.js"
@@ -18,5 +13,10 @@
     "name": "stats.js",
     "type": "file",
     "path": "extensions/Nights/stats.js/src/stats.js"
+  },
+  {
+    "name": "block-info.js",
+    "type": "file",
+    "path": "extensions/Nights/stats.js/src/block-info.js"
   }
 ]

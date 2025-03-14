@@ -1,18 +1,13 @@
 [
   {
-    "name": "BBcode",
+    "name": "Interpreter",
     "type": "dir",
-    "path": "extensions/wit_cat/BBcode"
+    "path": "extensions/wit_cat/Interpreter"
   },
   {
     "name": "File_Helper",
     "type": "dir",
     "path": "extensions/wit_cat/File_Helper"
-  },
-  {
-    "name": "Interpreter",
-    "type": "dir",
-    "path": "extensions/wit_cat/Interpreter"
   },
   {
     "name": "MarkDown",
@@ -25,19 +20,34 @@
     "path": "extensions/wit_cat/Zip"
   },
   {
+    "name": "BBcode",
+    "type": "dir",
+    "path": "extensions/wit_cat/BBcode"
+  },
+  {
+    "name": "Sensory_Control.js",
+    "type": "file",
+    "path": "extensions/wit_cat/Sensory_Control.js"
+  },
+  {
     "name": "FPS.js",
     "type": "file",
     "path": "extensions/wit_cat/FPS.js"
   },
   {
-    "name": "GamePad.js",
+    "name": "README.md",
     "type": "file",
-    "path": "extensions/wit_cat/GamePad.js"
+    "path": "extensions/wit_cat/README.md"
   },
   {
     "name": "IndexedDB.js",
     "type": "file",
     "path": "extensions/wit_cat/IndexedDB.js"
+  },
+  {
+    "name": "GamePad.js",
+    "type": "file",
+    "path": "extensions/wit_cat/GamePad.js"
   },
   {
     "name": "Input.js",
@@ -48,15 +58,5 @@
     "name": "More_Mouse.js",
     "type": "file",
     "path": "extensions/wit_cat/More_Mouse.js"
-  },
-  {
-    "name": "README.md",
-    "type": "file",
-    "path": "extensions/wit_cat/README.md"
-  },
-  {
-    "name": "Sensory_Control.js",
-    "type": "file",
-    "path": "extensions/wit_cat/Sensory_Control.js"
   }
 ]

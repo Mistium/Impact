@@ -1,10 +1,5 @@
 [
   {
-    "name": "assets",
-    "type": "dir",
-    "path": "extensions/Fath/assets"
-  },
-  {
     "name": "banners",
     "type": "dir",
     "path": "extensions/Fath/banners"
@@ -13,6 +8,11 @@
     "name": "Turbowarp",
     "type": "dir",
     "path": "extensions/Fath/Turbowarp"
+  },
+  {
+    "name": "assets",
+    "type": "dir",
+    "path": "extensions/Fath/assets"
   },
   {
     "name": "CocreaFetch.js",

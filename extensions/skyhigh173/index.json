@@ -5,13 +5,13 @@
     "path": "extensions/skyhigh173/bigint.js"
   },
   {
-    "name": "json.js",
-    "type": "file",
-    "path": "extensions/skyhigh173/json.js"
-  },
-  {
     "name": "object.js",
     "type": "file",
     "path": "extensions/skyhigh173/object.js"
+  },
+  {
+    "name": "json.js",
+    "type": "file",
+    "path": "extensions/skyhigh173/json.js"
   }
 ]

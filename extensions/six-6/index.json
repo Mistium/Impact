@@ -1,8 +1,8 @@
 [
   {
-    "name": "datetime.js",
+    "name": "DateTimePost.svg",
     "type": "file",
-    "path": "extensions/six-6/datetime.js"
+    "path": "extensions/six-6/DateTimePost.svg"
   },
   {
     "name": "DateTime.svg",
@@ -10,9 +10,9 @@
     "path": "extensions/six-6/DateTime.svg"
   },
   {
-    "name": "DateTimePost.svg",
+    "name": "datetime.js",
     "type": "file",
-    "path": "extensions/six-6/DateTimePost.svg"
+    "path": "extensions/six-6/datetime.js"
   },
   {
     "name": "regexp.js",

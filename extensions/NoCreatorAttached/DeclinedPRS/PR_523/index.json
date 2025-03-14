@@ -1,13 +1,8 @@
 [
   {
-    "name": "images%2Fcolor_channels.svg",
+    "name": "images%2Fnotifications.png",
     "type": "file",
-    "path": "extensions/NoCreatorAttached/DeclinedPRS/PR_523/images%2Fcolor_channels.svg"
-  },
-  {
-    "name": "images%2Fdata_analysis.svg",
-    "type": "file",
-    "path": "extensions/NoCreatorAttached/DeclinedPRS/PR_523/images%2Fdata_analysis.svg"
+    "path": "extensions/NoCreatorAttached/DeclinedPRS/PR_523/images%2Fnotifications.png"
   },
   {
     "name": "images%2Fnavigator.png",
@@ -15,13 +10,18 @@
     "path": "extensions/NoCreatorAttached/DeclinedPRS/PR_523/images%2Fnavigator.png"
   },
   {
-    "name": "images%2Fnotifications.png",
+    "name": "images%2Fdata_analysis.svg",
     "type": "file",
-    "path": "extensions/NoCreatorAttached/DeclinedPRS/PR_523/images%2Fnotifications.png"
+    "path": "extensions/NoCreatorAttached/DeclinedPRS/PR_523/images%2Fdata_analysis.svg"
   },
   {
     "name": "images%2Frixxyx.svg",
     "type": "file",
     "path": "extensions/NoCreatorAttached/DeclinedPRS/PR_523/images%2Frixxyx.svg"
+  },
+  {
+    "name": "images%2Fcolor_channels.svg",
+    "type": "file",
+    "path": "extensions/NoCreatorAttached/DeclinedPRS/PR_523/images%2Fcolor_channels.svg"
   }
 ]

@@ -5,6 +5,16 @@
     "path": "extensions/wit_cat/BBcode/assets"
   },
   {
+    "name": "prism.js",
+    "type": "file",
+    "path": "extensions/wit_cat/BBcode/prism.js"
+  },
+  {
+    "name": "index.js",
+    "type": "file",
+    "path": "extensions/wit_cat/BBcode/index.js"
+  },
+  {
     "name": "bbcode.js",
     "type": "file",
     "path": "extensions/wit_cat/BBcode/bbcode.js"
@@ -15,18 +25,8 @@
     "path": "extensions/wit_cat/BBcode/htmlToBBCode.js"
   },
   {
-    "name": "index.js",
-    "type": "file",
-    "path": "extensions/wit_cat/BBcode/index.js"
-  },
-  {
     "name": "MarkDown.js",
     "type": "file",
     "path": "extensions/wit_cat/BBcode/MarkDown.js"
-  },
-  {
-    "name": "prism.js",
-    "type": "file",
-    "path": "extensions/wit_cat/BBcode/prism.js"
   }
 ]

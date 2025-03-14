@@ -5,14 +5,14 @@
     "path": "extensions/kukemc/I18n/assets"
   },
   {
-    "name": "extension.js",
-    "type": "file",
-    "path": "extensions/kukemc/I18n/extension.js"
-  },
-  {
     "name": "index.js",
     "type": "file",
     "path": "extensions/kukemc/I18n/index.js"
+  },
+  {
+    "name": "webpack.config.js",
+    "type": "file",
+    "path": "extensions/kukemc/I18n/webpack.config.js"
   },
   {
     "name": "package.json",
@@ -20,8 +20,8 @@
     "path": "extensions/kukemc/I18n/package.json"
   },
   {
-    "name": "webpack.config.js",
+    "name": "extension.js",
     "type": "file",
-    "path": "extensions/kukemc/I18n/webpack.config.js"
+    "path": "extensions/kukemc/I18n/extension.js"
   }
 ]

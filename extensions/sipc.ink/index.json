@@ -1,5 +1,10 @@
 [
   {
+    "name": "Recording",
+    "type": "dir",
+    "path": "extensions/sipc.ink/Recording"
+  },
+  {
     "name": "CloudMusic",
     "type": "dir",
     "path": "extensions/sipc.ink/CloudMusic"
@@ -8,10 +13,5 @@
     "name": "Consoles",
     "type": "dir",
     "path": "extensions/sipc.ink/Consoles"
-  },
-  {
-    "name": "Recording",
-    "type": "dir",
-    "path": "extensions/sipc.ink/Recording"
   }
 ]

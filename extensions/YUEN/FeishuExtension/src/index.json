@@ -10,13 +10,13 @@
     "path": "extensions/YUEN/FeishuExtension/src/constants.js"
   },
   {
-    "name": "extension.js",
-    "type": "file",
-    "path": "extensions/YUEN/FeishuExtension/src/extension.js"
-  },
-  {
     "name": "index.js",
     "type": "file",
     "path": "extensions/YUEN/FeishuExtension/src/index.js"
+  },
+  {
+    "name": "extension.js",
+    "type": "file",
+    "path": "extensions/YUEN/FeishuExtension/src/extension.js"
   }
 ]

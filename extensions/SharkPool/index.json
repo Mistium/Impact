@@ -10,13 +10,13 @@
     "path": "extensions/SharkPool/Modern Extensions"
   },
   {
-    "name": "Camera.js",
-    "type": "file",
-    "path": "extensions/SharkPool/Camera.js"
-  },
-  {
     "name": "Font-Manager.js",
     "type": "file",
     "path": "extensions/SharkPool/Font-Manager.js"
+  },
+  {
+    "name": "Camera.js",
+    "type": "file",
+    "path": "extensions/SharkPool/Camera.js"
   }
 ]

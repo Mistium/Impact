@@ -1,15 +1,5 @@
 [
   {
-    "name": "AllMenus.js",
-    "type": "file",
-    "path": "extensions/Lily/AllMenus.js"
-  },
-  {
-    "name": "Assets.js",
-    "type": "file",
-    "path": "extensions/Lily/Assets.js"
-  },
-  {
     "name": "Cast.js",
     "type": "file",
     "path": "extensions/Lily/Cast.js"
@@ -20,14 +10,9 @@
     "path": "extensions/Lily/ClonesPlus.js"
   },
   {
-    "name": "CommentBlocks.js",
+    "name": "LooksPlus.js",
     "type": "file",
-    "path": "extensions/Lily/CommentBlocks.js"
-  },
-  {
-    "name": "HackedBlocks.js",
-    "type": "file",
-    "path": "extensions/Lily/HackedBlocks.js"
+    "path": "extensions/Lily/LooksPlus.js"
   },
   {
     "name": "ListTools.js",
@@ -35,44 +20,14 @@
     "path": "extensions/Lily/ListTools.js"
   },
   {
-    "name": "lmsutils.js",
-    "type": "file",
-    "path": "extensions/Lily/lmsutils.js"
-  },
-  {
-    "name": "LooksPlus.js",
-    "type": "file",
-    "path": "extensions/Lily/LooksPlus.js"
-  },
-  {
-    "name": "McUtils.js",
-    "type": "file",
-    "path": "extensions/Lily/McUtils.js"
-  },
-  {
     "name": "MoreEvents.js",
     "type": "file",
     "path": "extensions/Lily/MoreEvents.js"
   },
   {
-    "name": "MoreTimers.js",
+    "name": "CommentBlocks.js",
     "type": "file",
-    "path": "extensions/Lily/MoreTimers.js"
-  },
-  {
-    "name": "Skins.js",
-    "type": "file",
-    "path": "extensions/Lily/Skins.js"
-  },
-  {
-    "name": "SoundExpanded.js",
-    "type": "file",
-    "path": "extensions/Lily/SoundExpanded.js"
-  },
-  {
-    "name": "TempVariables.js",
-    "type": "file",
-    "path": "extensions/Lily/TempVariables.js"
+    "path": "extensions/Lily/CommentBlocks.js"
   },
   {
     "name": "TempVariables2.js",
@@ -80,8 +35,53 @@
     "path": "extensions/Lily/TempVariables2.js"
   },
   {
+    "name": "AllMenus.js",
+    "type": "file",
+    "path": "extensions/Lily/AllMenus.js"
+  },
+  {
+    "name": "lmsutils.js",
+    "type": "file",
+    "path": "extensions/Lily/lmsutils.js"
+  },
+  {
+    "name": "McUtils.js",
+    "type": "file",
+    "path": "extensions/Lily/McUtils.js"
+  },
+  {
+    "name": "Skins.js",
+    "type": "file",
+    "path": "extensions/Lily/Skins.js"
+  },
+  {
     "name": "Video.js",
     "type": "file",
     "path": "extensions/Lily/Video.js"
+  },
+  {
+    "name": "TempVariables.js",
+    "type": "file",
+    "path": "extensions/Lily/TempVariables.js"
+  },
+  {
+    "name": "HackedBlocks.js",
+    "type": "file",
+    "path": "extensions/Lily/HackedBlocks.js"
+  },
+  {
+    "name": "SoundExpanded.js",
+    "type": "file",
+    "path": "extensions/Lily/SoundExpanded.js"
+  },
+  {
+    "name": "Assets.js",
+    "type": "file",
+    "path": "extensions/Lily/Assets.js"
+  },
+  {
+    "name": "MoreTimers.js",
+    "type": "file",
+    "path": "extensions/Lily/MoreTimers.js"
   }
 ]

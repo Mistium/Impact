@@ -1,12 +1,12 @@
 [
   {
-    "name": "extensions%2F0832%2FProject.js",
-    "type": "file",
-    "path": "extensions/NoCreatorAttached/DeclinedPRS/PR_917/extensions%2F0832%2FProject.js"
-  },
-  {
     "name": "extensions%2F0832%2FSuperAlert.js",
     "type": "file",
     "path": "extensions/NoCreatorAttached/DeclinedPRS/PR_917/extensions%2F0832%2FSuperAlert.js"
+  },
+  {
+    "name": "extensions%2F0832%2FProject.js",
+    "type": "file",
+    "path": "extensions/NoCreatorAttached/DeclinedPRS/PR_917/extensions%2F0832%2FProject.js"
   }
 ]

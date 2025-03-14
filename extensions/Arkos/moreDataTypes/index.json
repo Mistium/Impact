@@ -1,5 +1,10 @@
 [
   {
+    "name": "SafeObject.js",
+    "type": "file",
+    "path": "extensions/Arkos/moreDataTypes/SafeObject.js"
+  },
+  {
     "name": "l10n.js",
     "type": "file",
     "path": "extensions/Arkos/moreDataTypes/l10n.js"
@@ -8,10 +13,5 @@
     "name": "moreDataTypes.js",
     "type": "file",
     "path": "extensions/Arkos/moreDataTypes/moreDataTypes.js"
-  },
-  {
-    "name": "SafeObject.js",
-    "type": "file",
-    "path": "extensions/Arkos/moreDataTypes/SafeObject.js"
   }
 ]

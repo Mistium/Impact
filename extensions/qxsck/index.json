@@ -1,10 +1,5 @@
 [
   {
-    "name": "big-decimal.js",
-    "type": "file",
-    "path": "extensions/qxsck/big-decimal.js"
-  },
-  {
     "name": "data-analysis.js",
     "type": "file",
     "path": "extensions/qxsck/data-analysis.js"
@@ -13,6 +8,11 @@
     "name": "easy-struct.js",
     "type": "file",
     "path": "extensions/qxsck/easy-struct.js"
+  },
+  {
+    "name": "big-decimal.js",
+    "type": "file",
+    "path": "extensions/qxsck/big-decimal.js"
   },
   {
     "name": "matrix.js",

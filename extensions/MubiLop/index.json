@@ -10,13 +10,13 @@
     "path": "extensions/MubiLop/penguingpt.js"
   },
   {
-    "name": "penguinhook.js",
-    "type": "file",
-    "path": "extensions/MubiLop/penguinhook.js"
-  },
-  {
     "name": "toastnotifs.js",
     "type": "file",
     "path": "extensions/MubiLop/toastnotifs.js"
+  },
+  {
+    "name": "penguinhook.js",
+    "type": "file",
+    "path": "extensions/MubiLop/penguinhook.js"
   }
 ]

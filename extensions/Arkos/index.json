@@ -1,18 +1,38 @@
 [
   {
-    "name": "assets",
-    "type": "dir",
-    "path": "extensions/Arkos/assets"
-  },
-  {
     "name": "moreDataTypes",
     "type": "dir",
     "path": "extensions/Arkos/moreDataTypes"
   },
   {
+    "name": "assets",
+    "type": "dir",
+    "path": "extensions/Arkos/assets"
+  },
+  {
+    "name": "test.js",
+    "type": "file",
+    "path": "extensions/Arkos/test.js"
+  },
+  {
+    "name": "moreSensing.js",
+    "type": "file",
+    "path": "extensions/Arkos/moreSensing.js"
+  },
+  {
     "name": "advancedControls.js",
     "type": "file",
     "path": "extensions/Arkos/advancedControls.js"
+  },
+  {
+    "name": "project.js",
+    "type": "file",
+    "path": "extensions/Arkos/project.js"
+  },
+  {
+    "name": "projectWith30.js",
+    "type": "file",
+    "path": "extensions/Arkos/projectWith30.js"
   },
   {
     "name": "Archivecode.js",
@@ -28,25 +48,5 @@
     "name": "Archivecode\u65e7\u7248.js",
     "type": "file",
     "path": "extensions/Arkos/Archivecode\u65e7\u7248.js"
-  },
-  {
-    "name": "moreSensing.js",
-    "type": "file",
-    "path": "extensions/Arkos/moreSensing.js"
-  },
-  {
-    "name": "project.js",
-    "type": "file",
-    "path": "extensions/Arkos/project.js"
-  },
-  {
-    "name": "projectWith30.js",
-    "type": "file",
-    "path": "extensions/Arkos/projectWith30.js"
-  },
-  {
-    "name": "test.js",
-    "type": "file",
-    "path": "extensions/Arkos/test.js"
   }
 ]

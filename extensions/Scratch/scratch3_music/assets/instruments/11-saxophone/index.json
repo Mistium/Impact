@@ -1,5 +1,10 @@
 [
   {
+    "name": "84.mp3",
+    "type": "file",
+    "path": "extensions/Scratch/scratch3_music/assets/instruments/11-saxophone/84.mp3"
+  },
+  {
     "name": "36.mp3",
     "type": "file",
     "path": "extensions/Scratch/scratch3_music/assets/instruments/11-saxophone/36.mp3"
@@ -8,10 +13,5 @@
     "name": "60.mp3",
     "type": "file",
     "path": "extensions/Scratch/scratch3_music/assets/instruments/11-saxophone/60.mp3"
-  },
-  {
-    "name": "84.mp3",
-    "type": "file",
-    "path": "extensions/Scratch/scratch3_music/assets/instruments/11-saxophone/84.mp3"
   }
 ]

@@ -1,28 +1,8 @@
 [
   {
-    "name": "compiler_data",
-    "type": "dir",
-    "path": "extensions/Mistium/compiler_data"
-  },
-  {
-    "name": "Async Skins.js",
+    "name": "TabUtils.js",
     "type": "file",
-    "path": "extensions/Mistium/Async Skins.js"
-  },
-  {
-    "name": "Camera.js",
-    "type": "file",
-    "path": "extensions/Mistium/Camera.js"
-  },
-  {
-    "name": "Cloudlink4_Improved.js",
-    "type": "file",
-    "path": "extensions/Mistium/Cloudlink4_Improved.js"
-  },
-  {
-    "name": "Compiled Comments.js",
-    "type": "file",
-    "path": "extensions/Mistium/Compiled Comments.js"
+    "path": "extensions/Mistium/TabUtils.js"
   },
   {
     "name": "ExportSpriteDataURI.js",
@@ -35,9 +15,9 @@
     "path": "extensions/Mistium/Faster Blur Uri.js"
   },
   {
-    "name": "FastObject.js",
+    "name": "Random.js",
     "type": "file",
-    "path": "extensions/Mistium/FastObject.js"
+    "path": "extensions/Mistium/Random.js"
   },
   {
     "name": "Fast_List_Set.js",
@@ -45,34 +25,19 @@
     "path": "extensions/Mistium/Fast_List_Set.js"
   },
   {
-    "name": "Github.js",
-    "type": "file",
-    "path": "extensions/Mistium/Github.js"
-  },
-  {
-    "name": "HTMLInputs.js",
-    "type": "file",
-    "path": "extensions/Mistium/HTMLInputs.js"
-  },
-  {
     "name": "InputManager.js",
     "type": "file",
     "path": "extensions/Mistium/InputManager.js"
   },
   {
-    "name": "KeyHistory Legacy.js",
+    "name": "Compiled Comments.js",
     "type": "file",
-    "path": "extensions/Mistium/KeyHistory Legacy.js"
+    "path": "extensions/Mistium/Compiled Comments.js"
   },
   {
-    "name": "MistFetch.js",
+    "name": "Async Skins.js",
     "type": "file",
-    "path": "extensions/Mistium/MistFetch.js"
-  },
-  {
-    "name": "Random.js",
-    "type": "file",
-    "path": "extensions/Mistium/Random.js"
+    "path": "extensions/Mistium/Async Skins.js"
   },
   {
     "name": "SoundUtils.js",
@@ -80,14 +45,19 @@
     "path": "extensions/Mistium/SoundUtils.js"
   },
   {
-    "name": "TabUtils.js",
+    "name": "KeyHistory Legacy.js",
     "type": "file",
-    "path": "extensions/Mistium/TabUtils.js"
+    "path": "extensions/Mistium/KeyHistory Legacy.js"
   },
   {
-    "name": "URI Utilities.js",
+    "name": "Virtual File System.js",
     "type": "file",
-    "path": "extensions/Mistium/URI Utilities.js"
+    "path": "extensions/Mistium/Virtual File System.js"
+  },
+  {
+    "name": "HTMLInputs.js",
+    "type": "file",
+    "path": "extensions/Mistium/HTMLInputs.js"
   },
   {
     "name": "USB.js",
@@ -95,8 +65,33 @@
     "path": "extensions/Mistium/USB.js"
   },
   {
-    "name": "Virtual File System.js",
+    "name": "FastObject.js",
     "type": "file",
-    "path": "extensions/Mistium/Virtual File System.js"
+    "path": "extensions/Mistium/FastObject.js"
+  },
+  {
+    "name": "Github.js",
+    "type": "file",
+    "path": "extensions/Mistium/Github.js"
+  },
+  {
+    "name": "MistFetch.js",
+    "type": "file",
+    "path": "extensions/Mistium/MistFetch.js"
+  },
+  {
+    "name": "Camera.js",
+    "type": "file",
+    "path": "extensions/Mistium/Camera.js"
+  },
+  {
+    "name": "URI Utilities.js",
+    "type": "file",
+    "path": "extensions/Mistium/URI Utilities.js"
+  },
+  {
+    "name": "Cloudlink4_Improved.js",
+    "type": "file",
+    "path": "extensions/Mistium/Cloudlink4_Improved.js"
   }
 ]

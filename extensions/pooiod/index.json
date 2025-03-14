@@ -1,5 +1,10 @@
 [
   {
+    "name": "VideoSharing.js",
+    "type": "file",
+    "path": "extensions/pooiod/VideoSharing.js"
+  },
+  {
     "name": "Box2D.js",
     "type": "file",
     "path": "extensions/pooiod/Box2D.js"
@@ -13,11 +18,6 @@
     "name": "Scratchblocks.js",
     "type": "file",
     "path": "extensions/pooiod/Scratchblocks.js"
-  },
-  {
-    "name": "VideoSharing.js",
-    "type": "file",
-    "path": "extensions/pooiod/VideoSharing.js"
   },
   {
     "name": "WindowHasher.js",

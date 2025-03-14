@@ -1,8 +1,8 @@
 [
   {
-    "name": "extensions%2FkingKASEtheGREATalt%2Fmeteorology.js",
+    "name": "images%2FkingKASEtheGREATalt%2Fmeteorology.svg",
     "type": "file",
-    "path": "extensions/NoCreatorAttached/DeclinedPRS/PR_1391/extensions%2FkingKASEtheGREATalt%2Fmeteorology.js"
+    "path": "extensions/NoCreatorAttached/DeclinedPRS/PR_1391/images%2FkingKASEtheGREATalt%2Fmeteorology.svg"
   },
   {
     "name": "extensions%2Fmeteorology.js",
@@ -10,13 +10,13 @@
     "path": "extensions/NoCreatorAttached/DeclinedPRS/PR_1391/extensions%2Fmeteorology.js"
   },
   {
-    "name": "images%2FkingKASEtheGREATalt%2Fmeteorology.svg",
-    "type": "file",
-    "path": "extensions/NoCreatorAttached/DeclinedPRS/PR_1391/images%2FkingKASEtheGREATalt%2Fmeteorology.svg"
-  },
-  {
     "name": "images%2Fmeteorology.svg",
     "type": "file",
     "path": "extensions/NoCreatorAttached/DeclinedPRS/PR_1391/images%2Fmeteorology.svg"
+  },
+  {
+    "name": "extensions%2FkingKASEtheGREATalt%2Fmeteorology.js",
+    "type": "file",
+    "path": "extensions/NoCreatorAttached/DeclinedPRS/PR_1391/extensions%2FkingKASEtheGREATalt%2Fmeteorology.js"
   }
 ]

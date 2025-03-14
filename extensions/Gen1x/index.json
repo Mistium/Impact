@@ -1,8 +1,18 @@
 [
   {
+    "name": "chess-ext.js",
+    "type": "file",
+    "path": "extensions/Gen1x/chess-ext.js"
+  },
+  {
     "name": "better_storage.js",
     "type": "file",
     "path": "extensions/Gen1x/better_storage.js"
+  },
+  {
+    "name": "random_utils.js",
+    "type": "file",
+    "path": "extensions/Gen1x/random_utils.js"
   },
   {
     "name": "CATS.js",
@@ -10,18 +20,8 @@
     "path": "extensions/Gen1x/CATS.js"
   },
   {
-    "name": "chess-ext.js",
-    "type": "file",
-    "path": "extensions/Gen1x/chess-ext.js"
-  },
-  {
     "name": "mouth_washer.js",
     "type": "file",
     "path": "extensions/Gen1x/mouth_washer.js"
-  },
-  {
-    "name": "random_utils.js",
-    "type": "file",
-    "path": "extensions/Gen1x/random_utils.js"
   }
 ]
